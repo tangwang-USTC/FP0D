@@ -1,2 +1,2 @@
 # FP0D
-0D model of FP procedure in julia
+0D model of Fokker-Planck procedure in julia
